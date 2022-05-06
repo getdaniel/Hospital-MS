@@ -2,7 +2,7 @@
 
 
 Login Details for admin : admin <br>
-              Password :Test@12345 <br>
+              Password : admins <br>
 Login Details for Patient: test@gmail.com <br>
                 Password :Test@123 <br>
 Login Details for Doctor: test@demo.com <br>
